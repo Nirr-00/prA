@@ -2,7 +2,7 @@ hello world
 
 #include <sdtio.h>
 
-int main()
+main()
 {
     printf("hello world);
 }
